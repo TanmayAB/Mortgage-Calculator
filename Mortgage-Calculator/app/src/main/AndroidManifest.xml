@@ -30,11 +30,6 @@
             android:name=".Activities.ShowInMap"
             android:label="Homes' Locations"
             android:theme="@style/AppTheme.NoActionBar">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
 
         <meta-data
